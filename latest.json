@@ -1,0 +1,6 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/johnkitch/the-me-app-releases/releases/latest/download/the-me-app.apk",
+  "notes": "Initial release — encrypted local storage (SQLCipher), on-device AI scaffolding (MediaPipe + Gemma 2B), Coptic-corrected liturgical calendar, EN + AR i18n."
+}
