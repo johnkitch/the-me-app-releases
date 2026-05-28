@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
+  "versionCode": 3,
+  "versionName": "0.3.0",
   "apkUrl": "https://github.com/johnkitch/the-me-app-releases/releases/latest/download/the-me-app.apk",
-  "notes": "Fix: Today's Check-in now opens the check-in form (was a dead-end on the empty Pulse list). Empty Pulse list now has a Log first check-in button. New: AI now knows who you are — identity, values, parts, commitments, and confirmed self-knowledge from the Self tab are injected into every prompt."
+  "notes": "Structural fix: Body module toggles relocated out of the Body screen into Settings -> Modules -> Body modules. The Body screen is now data-entry only. Master Body switch + per-feature switches (Sleep / Exercise / MentalLoad / Symptom / Somatic / Substance / Cycle / Medication / Agpeya / SocialMedia) + the cycle->Pulse correlation opt-in all live in Settings now. Matches the original spec: Settings = configuration, Pulse + Today + module screens = data entry."
 }
