@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4.0",
+  "versionCode": 5,
+  "versionName": "0.4.1",
   "apkUrl": "https://github.com/johnkitch/the-me-app-releases/releases/latest/download/the-me-app.apk",
-  "notes": "Structural: Body screen split into a hub + 10 dedicated LogScreens (Sleep / Exercise / MentalLoad / Symptom / Somatic / Substance / Cycle / Medication / Agpeya / SocialMedia). Tap a row on the Body hub to open the dedicated entry screen. Combined with v0.3.0 (toggles moved to Settings), the Body surface now matches spec section 633-642 exactly: Settings = config, Body hub = nav, LogScreens = data entry."
+  "notes": "Polish: fixes raw vocab keys (Mental load, Social media) in the Settings > Body modules toggle list."
 }
