@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0",
+  "versionCode": 4,
+  "versionName": "0.4.0",
   "apkUrl": "https://github.com/johnkitch/the-me-app-releases/releases/latest/download/the-me-app.apk",
-  "notes": "Structural fix: Body module toggles relocated out of the Body screen into Settings -> Modules -> Body modules. The Body screen is now data-entry only. Master Body switch + per-feature switches (Sleep / Exercise / MentalLoad / Symptom / Somatic / Substance / Cycle / Medication / Agpeya / SocialMedia) + the cycle->Pulse correlation opt-in all live in Settings now. Matches the original spec: Settings = configuration, Pulse + Today + module screens = data entry."
+  "notes": "Structural: Body screen split into a hub + 10 dedicated LogScreens (Sleep / Exercise / MentalLoad / Symptom / Somatic / Substance / Cycle / Medication / Agpeya / SocialMedia). Tap a row on the Body hub to open the dedicated entry screen. Combined with v0.3.0 (toggles moved to Settings), the Body surface now matches spec section 633-642 exactly: Settings = config, Body hub = nav, LogScreens = data entry."
 }
