@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.4.1",
+  "versionCode": 6,
+  "versionName": "0.4.2",
   "apkUrl": "https://github.com/johnkitch/the-me-app-releases/releases/latest/download/the-me-app.apk",
-  "notes": "Polish: fixes raw vocab keys (Mental load, Social media) in the Settings > Body modules toggle list."
+  "notes": "Polish from the emulator QA pass: Body overview now refreshes instantly after logging, medication count reads correctly, a Today liturgical-day card, a gentle low-sleep note, and a first-run welcome card."
 }
